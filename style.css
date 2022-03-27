@@ -133,7 +133,6 @@ nav {
 
 .rightMenu{
     width: 7.5%;
-    border: 2px solid hsl(197, 94%, 65%);
     display:flex;
     justify-content: center;
     align-items: center;
@@ -146,7 +145,6 @@ nav {
     padding: 10px 7px;
 }
 .rightMenu .menuIcon{
-    border: 2px solid hsl(197, 94%, 65%);
     background: transparent;
     padding: 5px 5px;
     padding-right: 5px;
